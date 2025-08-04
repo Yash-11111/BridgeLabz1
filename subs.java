@@ -11,7 +11,7 @@ public class subs{
         int b = sc.nextInt();
 
 
-        System.out.println("addition of two given number is " + (a-b));
+        System.out.println("substraction of two given number is " + (a-b));
 
     }
 }
